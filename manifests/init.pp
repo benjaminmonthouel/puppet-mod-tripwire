@@ -2,7 +2,9 @@
 #
 # This module manages tripwire
 #
-# Parameters: tw_site_passphrase, tw_local_passphrase, tw_init, tw_update
+# Parameters: tw_site_passphrase, tw_local_passphrase
+#
+# Optional parameters : tw_init, tw_update
 #
 # Actions:
 #
