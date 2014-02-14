@@ -1,3 +1,6 @@
 # tripwire #
 
-This is the tripwire module. It provides...
+This module helps install the tripwire file integrity checker.
+
+Sample usage :
+
