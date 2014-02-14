@@ -1,0 +1,13 @@
+{
+  "name": "benjaminm-tripwire",
+  "version": "0.1.0",
+  "summary": "Install Tripwire(tm) file integrity checker",
+  "author": "Benjamin MONTHOUËL",
+  "description": "",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": "Apache v2.0 http://www.apache.org/licenses/LICENSE-2.0"
+}
