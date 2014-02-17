@@ -7,7 +7,7 @@
   "dependencies": [],
   "types": [],
   "checksums": {},
-  "source": "",
-  "project_page": "",
-  "license": "Apache v2.0 http://www.apache.org/licenses/LICENSE-2.0"
+  "source": "https://github.com/benjaminmonthouel/puppet-mod-tripwire.git",
+  "project_page": "https://github.com/benjaminmonthouel/puppet-mod-tripwire",
+  "license": "Apache 2.0"
 }
